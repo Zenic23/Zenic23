@@ -1,4 +1,4 @@
-Hi there 🖐
+<h1 text-align="center">Hi there🖐</h1>
 <p align="center">
   
   <h2>Forums</h2>
