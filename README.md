@@ -1,4 +1,4 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  ![Alt text](https://github.com/Zenic23/Zenic23/blob/main/62417_coding_web_icon.png)
 </p>
