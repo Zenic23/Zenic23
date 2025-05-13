@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile">
 </a>
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <a herf="https://cloud.unity.com/user/zenicrpg124">
+    <a herf="https://cloud.unity.com/account/zenicrpg124">
       <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
     </a>
 </div>
