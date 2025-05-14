@@ -1,6 +1,6 @@
 <h1 align="center">Hi there🖐</h1>
 <p align="center">
-<p>Hello, Zenic23 here! I am a programmer who enjoys solving problems and writing programs—not for a job or money, but for the love of programming itself. I like programming because it teaches me how to approach challenges, strengthens my problem-solving and logical thinking skills, and, most importantly, teaches me how to think! </p>
+<p align="center">Hello, Zenic23 here! I am a programmer who enjoys solving problems and writing programs—not for a job or money, but for the love of programming itself. I like programming because it teaches me how to approach challenges, strengthens my problem-solving and logical thinking skills, and, most importantly, teaches me how to think! </p>
   
   <h2 align="center">Software and webapps which I explored 🎒.</h2>
   <div align="center" display="flex">
