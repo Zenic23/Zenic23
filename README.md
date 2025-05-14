@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    
  </div>
- <h2>OS which I used till yet💿💻</h2>
+ <h2 align="center">OS which I used till yet💿💻</h2>
  <div align="center" display="flex">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
