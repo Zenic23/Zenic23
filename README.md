@@ -1,5 +1,6 @@
 <h1 align="center">Hi there🖐</h1>
 <p align="center">
+<p>Hello Zenic23 is here, I am programmer who likes to solve and type programmes not for Job's money. I like programming because it teach me how to solve problems, it helps to biuld our mindest problrm-solving and logical thinking mindset. And most important it teach us how to think! </p>
   
   <h2 align="center">Software and webapps which I explored 🎒.</h2>
   <div align="center" display="flex">
