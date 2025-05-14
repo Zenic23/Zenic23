@@ -23,7 +23,7 @@
  <div align="center" display="flex">
   <img  src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-ar21.svg" alt="Edge"><img align="right" height=150 width=125 src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif">
  </div><br>
- <h2 align="center">Programming Language, which I learned yet👨‍💻</h2>
+ <h2 align="center">Programming Language, which I learned yet👨‍💻......</h2>
  <div align="center" display="flex">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
