@@ -1,4 +1,5 @@
 <h1 align="center">Hi there🖐</h1>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <p align="center">
 <p align="center">Hello, Zenic23 here! I am a programmer who enjoys solving problems and writing programs—not for a job or money, but for the love of programming itself. I like programming because it teaches me how to approach challenges, strengthens my problem-solving and logical thinking skills, and, most importantly, teaches me how to think! </p>
   
