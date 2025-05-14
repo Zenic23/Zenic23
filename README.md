@@ -3,7 +3,7 @@
   
   <h2 align="center">Software and webapps which I explored 🎒.</h2>
   <div align="center" display="flex">
-    <marquee scroll="left">
+    
   <a href="https://www.codechef.com/users/solar_hares_31">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile">
 </a>
@@ -13,7 +13,7 @@
     </a>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-    </marquee>
+    
 </div>
     
  <h2 align="center">Browser, I am using🖥</h2>
