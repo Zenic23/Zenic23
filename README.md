@@ -12,6 +12,6 @@
     </a>
      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
- <h2>Browser, I am using🖥</h2>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-ar21.svg" alt="Edge">
+ <h2 align="center">Browser, I am using🖥</h2>
+  <img align="center" src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-ar21.svg" alt="Edge">
 </p>
