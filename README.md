@@ -25,7 +25,7 @@
  </div><br>
  
  <div align="center" >
-   <h2 align="center">Programming Language, which I learned yet👨‍💻</h2>
+   <h2 align="center">Programming and Markup Language, which I learned yet👨‍💻</h2>
    <div display="flex">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
